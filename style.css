@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.container {
+	text-align: left;
+    font-family: sans-serif;
+    position: relative;
+    display: inline-block;
+	margin-top: 100px;
+}
+
+.field {
+	width: 600px;
+	font-size: 40px;
+	height: 45px;
+	padding: 20px;
+	margin: 10px;
+	background-color: #E3E3E3;
+	display: inline-block;
+	border: none;
+	position: relative;
+	vertical-align:top;
+}
